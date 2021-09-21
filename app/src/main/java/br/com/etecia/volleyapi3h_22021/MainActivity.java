@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     TextView txtRespostaWEB;
     Button btnAcessaServer;
 
-    String serverURL = "http://192.168.100.13/projetovolleyapi/ola_servidor.php";
+    String serverURL = "http://10.67.96.150/projetovolleyapi/ola_servidor.php";
 
     RequestQueue requestQueue;
 
